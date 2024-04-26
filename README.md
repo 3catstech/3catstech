@@ -1,5 +1,6 @@
 - 👋 Hi, we are @3catstech part of 3cats.finance
 - 👀 We research decetralized finance
+- 👀 We meow and purrr while create DeFi applications for Solana and Ethereum
 - 🌱 We are currently building the next Cat themed community online
    - Cat Coins
    - Cat NFT's
